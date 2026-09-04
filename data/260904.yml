@@ -7,7 +7,7 @@ about:
   head: 41ae245
   archived: false
   latestVersion: v0.3.1
-  collectedAt: 2026-09-04T19:35:08Z
+  collectedAt: 2026-09-04T20:54:51Z
 timeline:
   created: 2019-03-16
   lastCommit: 2025-07-31
@@ -81,5 +81,33 @@ total:
   openIssue: 12
   commit: 198
 ---
+path: /home/runner/.x-repo/github.com/oppiliappan/eva
+collectedAt: 2026-09-04T20:54:52Z
+loc:
+  Rust:
+    code: 1098
+    comments: 51
+    blanks: 78
+    files: 7
+  Nix:
+    code: 87
+    comments: 4
+    blanks: 18
+    files: 3
+  Toml:
+    code: 28
+    comments: 1
+    blanks: 4
+    files: 1
+  Markdown:
+    code: 0
+    comments: 100
+    blanks: 40
+    files: 1
+total:
+  code: 1239
+  comments: 169
+  blanks: 147
+  files: 12
 ---
 
