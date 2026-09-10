@@ -22,7 +22,15 @@ x install eva
 - **Latest**: `v0.3.1` (2022-11-08)
 - **Last commit**: 2025-07-31
 - **Assets in release**: 4
-- **Published**: 2022-11-08T01:55:14Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [eva](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva) | 2.4 MiB | `other` |
+| [eva.d](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva.d) | 214 B | `other` |
+| [eva.exe](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva.exe) | 2.2 MiB | `other` |
+| [eva.pdb](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva.pdb) | 2.5 MiB | `other` |
 
 ## Popularity
 
@@ -56,8 +64,8 @@ Total: **1,213** lines of code across **12** files in the top 5 languages.
 Install metadata for eva lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `eva` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/eva.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/eva.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T02:50:50Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:40Z._

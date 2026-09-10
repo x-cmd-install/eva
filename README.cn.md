@@ -4,7 +4,7 @@
 
 a calculator REPL, similar to bc(1)
 
-![eva](https://repo.x-cmd.io/eva.svg)
+![eva](https://repo.x-cmd.io/eva.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,15 @@ x install eva
 - **最新版本**: `v0.3.1` (2022-11-08)
 - **最近提交**: 2025-07-31
 - **Release 含资产**: 4 个
-- **发布时间**: 2022-11-08T01:55:14Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [eva](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva) | 2.4 MiB | `other` |
+| [eva.d](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva.d) | 214 B | `other` |
+| [eva.exe](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva.exe) | 2.2 MiB | `other` |
+| [eva.pdb](https://github.com/oppiliappan/eva/releases/download/v0.3.1/eva.pdb) | 2.5 MiB | `other` |
 
 ## 流行度
 
@@ -60,4 +68,4 @@ eva 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T02:50:50Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:51:41Z._
