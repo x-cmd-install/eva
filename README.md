@@ -36,22 +36,22 @@ Total: **1,213** lines of code across **12** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 918 · **Forks**: 36 · **Open issues**: 48 · **Contributors**: 19
+- **Stars**: 918 · **Forks**: 36 · **Open issues**: 49 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 29 · **Open PRs**: 1 · **Closed issues**: 36 · **Open issues**: 12 · **Commits**: 198
+- **Releases**: 6 · **Merged PRs**: 29 · **Open PRs**: 1 · **Closed issues**: 36 · **Open issues**: 13 · **Commits**: 198
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-03 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-11-04 | 0 | 0 | 0 | 1 | 0 | 0 |
-| last720d | 2024-11-09 | 0 | 1 | 0 | 3 | 1 | 4 |
+| 30d | 2026-10-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-09-01 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-08-02 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-05-04 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 360d | 2025-11-05 | 0 | 0 | 0 | 1 | 1 | 0 |
+| last720d | 2024-11-10 | 0 | 1 | 0 | 3 | 2 | 4 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for eva lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T04:07:54Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T03:51:40Z._
